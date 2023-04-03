@@ -1,0 +1,5 @@
+The pattern is found at index: 1
+The pattern is found at index: 1
+The pattern is found at index: 1
+The pattern is found at index: 1
+The pattern is found at index: 1
